@@ -1,0 +1,38 @@
+{
+  "name": "learnmusic",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.19",
+    "@mui/material": "^5.14.20",
+    "@mui/x-charts": "^6.18.3",
+    "@mui/x-date-pickers": "^6.18.5",
+    "@mui/x-date-pickers-pro": "^6.18.5",
+    "boxicons": "^2.1.4",
+    "fontawesome": "^5.6.3",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-youtube": "^10.1.0",
+    "recharts": "^2.10.3"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
